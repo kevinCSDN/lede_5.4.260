@@ -1,5 +1,5 @@
 src-git packages https://github.com/kevinCSDN/packages
-src-git luci https://https://github.com/kevinCSDN/luci
+src-git luci https://github.com/kevinCSDN/luci
 src-git routing https://github.com/venpong/routing
 src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git helloworld https://github.com/kevinCSDN/helloworld.git
